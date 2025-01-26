@@ -1,0 +1,24 @@
+.input-div {
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+  padding: 20px;
+  width: 50%;
+  margin: auto;
+}
+.input-div > input {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.expense-list > ul {
+  display: flex;
+
+  width: 50%;
+  margin: auto;
+  flex-direction: column;
+  border: 1px dotted;
+  border-radius: 10px;
+}
+
